@@ -10,5 +10,5 @@ Key Questions
   -Are there differences in ordering habits based on loyalty, region, family status, or age?
   
 The files in this repository:
-  Project Code: All the Python code written for this project broken down by course section
+  Project Code: All the Python code written for this project broken down by course section and brief description of the code
   Client Report: Final stakeholder report with summary of data and insights found
